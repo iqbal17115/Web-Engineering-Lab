@@ -1,0 +1,85 @@
+.mainContent{
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+  width: 80%;
+  overflow: hidden;
+  border-left: 1px solid #DAD7CE;
+  border-right: 1px solid #DAD7CE;
+  border-bottom: 1px solid #DAD7CE;
+  padding-bottom: 5px;
+  position: relative;
+}h3{
+	text-align: center;
+	background-color: black;
+	color: white;
+  margin-top: 0px;
+  padding: 15px;
+}img{
+	width: 200px;
+	height: 200px;
+}.subclass1{
+   width: 48%;
+   float: left;
+   margin-left: 15px;
+   border: 1px solid #A3E4D7;
+}.subclass2{
+	width: 48%;
+  float: right;
+  margin-right: 15px;
+  border: 1px solid #A3E4D7;
+ }#input{
+  width: 90%;
+  padding: 12px 20px;
+  border-radius: 4px;
+  border: 1px solid #5A6C6F;
+ }p{
+  text-align: justify;
+  margin: 4px;
+ }.subclass3{
+  width: 100%;
+  float: right;
+  margin-right: 15px;
+  border: 1px solid #A3E4D7;
+ }
+ #btn1{
+  background-color: #4CAF50;
+  color: white;
+  width: 10%;
+  padding: 15px 15px;
+  text-align: center;
+  font-size: 16px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin: 15px;
+  border-radius: 10px;
+ }#btn2{
+  float: right;
+  margin-right: 50px;
+  padding: 10px 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #C07FC3;
+  border-radius: 10px;
+ }#btn1:hover{
+  background-color: black;
+  color: white;
+  }#btn2:hover{
+  background-color: black;
+  color: white;
+  }.subclass{
+  width: 80%;
+  border: 1px solid #B3D0AB;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin: auto;
+  padding: 40px;
+ }#title{
+  font-weight: bold;
+ }
